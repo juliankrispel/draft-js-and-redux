@@ -1,0 +1,18 @@
+html,body{ height: 100%; }
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #f0f0f0;
+}
+
+.public-DraftEditor-content{
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  top: 2em;
+  right: 2em;
+  position: absolute;
+  padding: 1em;
+  left: 2em;
+  bottom: 2em;
+}
